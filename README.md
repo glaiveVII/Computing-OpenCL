@@ -1,4 +1,5 @@
 # Computing-OpenCL
+# High Performance Computing
 I have done for my studies a project on Open CL that I have developed because it was interesting.
 
 It a project of IMAGE PROCESSING WITH OPEN CL a powerful software to work efficiently on images.
